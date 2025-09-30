@@ -1,5 +1,4 @@
-@media (max-width: 576px) {
-    img {
-        width: 100%;
-    }
+img {
+    width: 100%;
+    padding-bottom: 1rem;
 }
