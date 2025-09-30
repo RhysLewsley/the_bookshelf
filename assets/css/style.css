@@ -2,3 +2,15 @@ img {
     width: 100%;
     padding-bottom: 1rem;
 }
+
+.navbarstyle {
+    background-color: orange;
+}
+
+@media only screen and (max-width: 768px) {
+    .navbarstyle {
+        position: fixed;
+        top: 0;
+        width: 100%
+    }
+}
