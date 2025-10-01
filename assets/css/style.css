@@ -1,16 +1,36 @@
-img {
-    width: 100%;
-    padding-bottom: 1rem;
+.navbarstyle {
+    background-color: rgb(198,152,116);
 }
 
-.navbarstyle {
-    background-color: orange;
+.hero-image {
+    /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url("../image/book_club_purpose_1570x.webp");
+
+    padding-top: 10rem;
+    padding-bottom: 1rem;
+    /* Set a specific height */
+    height: 50%;
+    width: 100%;
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: center;
+}
+
+.hero-text {
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: ranslate(-50%, -50%);
+    color: white;
 }
 
 @media only screen and (max-width: 768px) {
     .navbarstyle {
         position: fixed;
         top: 0;
-        width: 100%
+        width: 100%;
     }
 }
