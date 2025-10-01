@@ -37,6 +37,21 @@ header {
     transform: ranslate(-50%, -50%);
     color: white;
 }
+h1, h2 {
+    padding: 1rem;
+}
+
+.about-p {
+    padding: 1rem;
+    background-color: rgb(198, 151, 116);  
+    border-radius: 5%;
+}
+
+.center-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 #footer {
     background-color: rgb(198, 152, 116);
