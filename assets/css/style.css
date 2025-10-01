@@ -1,5 +1,16 @@
+body {
+    min-height: 100vh;
+    margin: 0;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+header {
+    min-height: 50px;
+}
+
 .navbarstyle {
-    background-color: rgb(198,152,116);
+    background-color: rgb(198, 151, 116);
 }
 
 .hero-image {
@@ -27,8 +38,24 @@
     color: white;
 }
 
-#footer{
-    background-color: rgb(198,152,116);
+#footer {
+    background-color: rgb(198, 152, 116);
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    flex-direction: column;
+}
+
+.fa {
+    padding: 10px 30px;
+    font-size: 30px;
+    width: 30px;
+    /* text-align: center; */
+    text-decoration: none;
+    border-radius: 50%;
+    color: white;
 }
 
 @media only screen and (max-width: 768px) {
