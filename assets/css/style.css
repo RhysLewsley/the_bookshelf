@@ -11,6 +11,7 @@ header {
 
 .navbarstyle {
     background-color: rgb(198, 151, 116);
+    /* padding-bottom: 5rem; */
 }
 
 .hero-image {
@@ -37,20 +38,23 @@ header {
     transform: ranslate(-50%, -50%);
     color: white;
 }
-h1, h2 {
+h1,
+h2 {
     padding: 1rem;
 }
 
-.about-p {
-    padding: 1rem;
-    background-color: rgb(198, 151, 116);  
+.about-paragraphs {
+    /* padding: 0.1rem; */
+    background-color: rgb(198, 151, 116);
     border-radius: 5%;
 }
 
-.center-text{
-    display: flex;
+.center-text {
+    /* display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
+    text-align: center;
+    padding: 1rem;
 }
 
 #footer {
