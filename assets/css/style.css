@@ -44,17 +44,17 @@ h2 {
 }
 
 .about-paragraphs {
-    /* padding: 0.1rem; */
+    margin: 2rem 1.5rem;
+    padding: 2rem;
     background-color: rgb(198, 151, 116);
-    border-radius: 5%;
+    border-radius: 15px;
+    max-width: 800px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 .center-text {
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
     text-align: center;
-    padding: 1rem;
+    padding: 0.5rem 0;
 }
 
 #footer {
@@ -82,5 +82,24 @@ h2 {
         position: fixed;
         top: 0;
         width: 100%;
+    }
+
+    .about-paragraphs {
+        margin: 1.5rem 1rem;
+        padding: 1.5rem;
+    }
+}
+
+@media only screen and (min-width: 769px) {
+    .about-paragraphs {
+        margin: 2rem auto;
+        max-width: 900px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .about-paragraphs {
+        margin: 2.5rem auto;
+        max-width: 1000px;
     }
 }
