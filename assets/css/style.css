@@ -74,7 +74,7 @@ h2 {
     /* text-align: center; */
     text-decoration: none;
     border-radius: 50%;
-    color: black;
+    color: white;
 }
 
 .book-description {
@@ -100,9 +100,38 @@ h2 {
 
 @media only screen and (max-width: 768px) {
     .navbarstyle {
-        position: fixed;
+        position: sticky;
         top: 0;
         width: 100%;
+        z-index: 1030;
+        transition: all 0.3s ease-in-out;
+    }
+
+    /* Add smooth transition to main content */
+    main {
+        transition: transform 0.3s ease-in-out;
+    }
+
+    /* Ensure the navbar collapse has smooth transitions */
+    .navbar-collapse {
+        transition: all 0.3s ease-in-out;
+    }
+
+    /* When the navbar collapse is shown, it will naturally push content down */
+    .navbar-collapse.show {
+        background-color: rgb(198, 151, 116);
+        padding: 1rem 0;
+    }
+
+    /* Remove any fixed positioning issues */
+    body {
+        padding-top: 0;
+    }
+
+    /* Ensure hero image doesn't have conflicting positioning */
+    .hero-image {
+        margin-top: 0;
+        transition: all 0.3s ease-in-out;
     }
 
     .about-paragraphs {
