@@ -1,10 +1,15 @@
 # The Bookshelf 📚
 
-A community-driven book club website that brings book lovers together to discuss and share their thoughts on monthly book selections.
+A community-driven book club website that brings book lovers together reading monthly book selections.
+
+## 🌐 Live Demo
+
+The website is fully functional and can be viewed here:
+<a href="https://rhyslewsley.github.io/the_bookshelf/" target="_blank" rel="noopener">Live Website</a>
 
 ## 🌟 About The Project 
 
-The Bookshelf is a responsive website for a book club community that connects readers from all over the world. Members participate in monthly book discussions and share their insights about carefully selected literary works in a welcoming and respectful environment.
+The Bookshelf is a responsive website for a book club community that connects readers from all over the world. Members participate in monthly readalongs and are given the opportunity to share their insights about the carefully selected literary works and connect with like-minded individuals in a welcoming and respectful environment through The Bookshelf's social media accounts linked on the website.
     
 ## ✨ Features
 
@@ -60,42 +65,12 @@ the_bookshelf/
 - **Genre**: Classic Literature
 - **Description**: A powerful exploration of racial injustice and moral growth in the 1930s Deep South
 
-## 🚀 Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/RhysLewsley/the_bookshelf.git
-   ```
-
-2. **Navigate to project directory**
-   ```bash
-   cd the_bookshelf
-   ```
-
-3. **Open in your preferred web browser**
-   - Open `index.html` in any modern web browser
-   - Or use a local development server for best experience
-
-## 🌐 Live Demo
-
-The website is fully functional and can be viewed by opening `index.html` in any modern web browser.
-
 ## 📱 Responsive Design
 
 The website is fully responsive and optimized for:
 - Desktop computers (1200px+)
 - Tablets (769px - 1199px)
 - Mobile devices (up to 768px)
-
-## 🤝 Contributing
-
-We welcome contributions to improve The Bookshelf website! Here's how you can help:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📝 Future Enhancements
 
@@ -104,7 +79,6 @@ We welcome contributions to improve The Bookshelf website! Here's how you can he
 - [ ] Reading progress tracking
 - [ ] Book rating and review system
 - [ ] Email newsletter signup
-- [ ] Mobile app version
 
 ## 📄 License
 
