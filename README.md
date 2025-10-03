@@ -1,61 +1,12 @@
 # The Bookshelf 📚
 
-<div align="center">
-  <img src="https://github.com/user-attachmenThe wireframes showcase:
+<img width="1917" height="872" alt="homepage" src="https://github.com/user-attachments/assets/1793be3f-8030-4498-85f5-56f773d70d59" />
 
--   **Consistent Navigation**: Header with logo and navigation menu across all pages
--   **Responsive Hero Section**: Prominent hero image on homepage with overlay text
--   **Content Structure**: Clear hierarchy and spacing for optimal readability
--   **Social Media Footer**: Consistent footer with social media links
--   **Mobile-First Approach**: Burger menu and stacked content for smaller screens
--   **Book Display**: Dedicated layout for book covers, titles, and descriptions
-
-## 📋 User Stories & Agile Development
-
-The Bookshelf project was developed using agile methodology with user stories to guide feature development and ensure user-focused design.
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/your-user-stories-image-id" alt="GitHub Project Board with User Stories" width="900">
-  <br>
-  <em>GitHub Project Board showcasing user stories organized in Kanban-style workflow</em>
-</div>
-
-### Key User Stories Implemented:
-
-**📖 Book Discovery & Information**
-
--   **US#1**: As a book club member, I want to see the current book of the month so that I know what we're reading
--   **US#2**: As a potential reader, I want to view past book selections so that I can catch up on previous reads
--   **US#10**: As a user, I want to read book synopses so that I can understand what each book is about
-
-**🌐 Community & Navigation**
-
--   **US#3**: As a visitor, I want to learn about the book club so that I can decide if I want to join
--   **US#4**: As a user, I want easy navigation between pages so that I can find information quickly
--   **US#11**: As a user, I want a clear timeline of book selections so that I can plan my reading
-
-**📱 User Experience & Accessibility**
-
--   **US#5**: As a mobile user, I want a responsive design so that I can browse on any device
--   **US#6**: As a user, I want to access social media links so that I can connect with the community
--   **US#7**: As a reader, I want to see the next month's book so that I can prepare in advance
-
-**🛒 Book Purchasing & External Links**
-
--   **US#9**: As a reader, I want purchase links so that I can easily buy the featured books
-
-### Development Workflow:
-
--   **Backlog**: User stories awaiting development
--   **To Do**: Stories ready for implementation
--   **In Progress**: Currently being worked on
--   **Done**: Completed and tested features
-
-## 📖 Current Book Selectionsyour-image-id-here" alt="The Bookshelf Homepage" width="800">
 
   <br>
   <em>Homepage featuring hero section with community-focused messaging</em>
 </div>
+
 
 A community-driven book club website that brings book lovers together reading monthly book selections.
 
@@ -102,6 +53,57 @@ the_bookshelf/
         └── tokillamockingbird.jpg          # November 2025 book cover
 ```
 
+
+<div align="center">
+
+-   **Consistent Navigation**: Header with logo and navigation menu across all pages
+-   **Responsive Hero Section**: Prominent hero image on homepage with overlay text
+-   **Content Structure**: Clear hierarchy and spacing for optimal readability
+-   **Social Media Footer**: Consistent footer with social media links
+-   **Mobile-First Approach**: Burger menu and stacked content for smaller screens
+-   **Book Display**: Dedicated layout for book covers, titles, and descriptions
+
+## 📋 User Stories & Agile Development
+
+The Bookshelf project was developed using agile methodology with user stories to guide feature development and ensure user-focused design.
+
+<div align="center">
+<img width="940" height="736" alt="user_stories" src="https://github.com/user-attachments/assets/632e6c8f-357c-4513-8e72-056e3b3bce16" />
+  <br>
+  <em>GitHub Project Board showcasing user stories organized in Kanban-style workflow</em>
+</div>
+
+### Key User Stories Implemented:
+
+**📖 Book Discovery & Information**
+
+-   **US#1**: As a book club member, I want to see the current book of the month so that I know what we're reading
+-   **US#2**: As a potential reader, I want to view past book selections so that I can catch up on previous reads
+-   **US#10**: As a user, I want to read book synopses so that I can understand what each book is about
+
+**🌐 Community & Navigation**
+
+-   **US#3**: As a visitor, I want to learn about the book club so that I can decide if I want to join
+-   **US#4**: As a user, I want easy navigation between pages so that I can find information quickly
+-   **US#11**: As a user, I want a clear timeline of book selections so that I can plan my reading
+
+**📱 User Experience & Accessibility**
+
+-   **US#5**: As a mobile user, I want a responsive design so that I can browse on any device
+-   **US#6**: As a user, I want to access social media links so that I can connect with the community
+-   **US#7**: As a reader, I want to see the next month's book so that I can prepare in advance
+
+**🛒 Book Purchasing & External Links**
+
+-   **US#9**: As a reader, I want purchase links so that I can easily buy the featured books
+
+### Development Workflow:
+
+-   **Backlog**: User stories awaiting development
+-   **To Do**: Stories ready for implementation
+-   **In Progress**: Currently being worked on
+-   **Done**: Completed and tested features
+
 ## 🎨 Design Features
 
 -   **Color Scheme**: Warm brown theme (#C69774) for a cozy, bookish atmosphere
@@ -110,14 +112,15 @@ the_bookshelf/
 -   **Layout**: Centered content with optimal reading width (800px max)
 -   **Accessibility**: Proper alt text, semantic HTML, and keyboard navigation support
 
-## � Wireframes
+## Wireframes
 
 The website was designed with responsive layouts in mind, featuring wireframes for desktop, mobile, and tablet devices across all three main pages.
 
 ### Desktop Wireframes
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3b5ac1b5-7c6b-4b57-90b4-8bb9a7b1e1b6" alt="Desktop Wireframes" width="800">
+  <img width="1231" height="372" alt="laptopwireframe" src="https://github.com/user-attachments/assets/9893d618-96ab-4a1c-b78e-8838686c7340" />
+
   <br>
   <em>Desktop layouts for Home, About, and Book of the Month pages</em>
 </div>
@@ -125,7 +128,8 @@ The website was designed with responsive layouts in mind, featuring wireframes f
 ### Mobile Wireframes
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4c7b7b1c-8c82-4e91-9bb8-7ba7f3e34f9b" alt="Mobile Wireframes" width="600">
+  <img width="977" height="571" alt="Phonewireframe" src="https://github.com/user-attachments/assets/2bebf11e-2fb2-4df1-b5fd-9d2823f35965" />
+
   <br>
   <em>Mobile responsive layouts with burger menu navigation</em>
 </div>
@@ -133,8 +137,9 @@ The website was designed with responsive layouts in mind, featuring wireframes f
 ### Tablet Wireframes
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f8d4e4e3-7c6b-4b5b-88c3-fb3e2c4b5e6f" alt="Tablet Wireframes" width="700">
-  <br>
+  
+  <br><img width="1262" height="585" alt="tabletwireframe" src="https://github.com/user-attachments/assets/35eb50e8-58af-4c7d-8bd9-1bae6a74f26f" />
+
   <em>Tablet layouts optimized for medium-sized screens</em>
 </div>
 
@@ -147,7 +152,7 @@ The wireframes showcase:
 -   **Mobile-First Approach**: Burger menu and stacked content for smaller screens
 -   **Book Display**: Dedicated layout for book covers, titles, and descriptions
 
-## �📖 Current Book Selections
+## 📖 Current Book Selections
 
 ### October 2025: The Hobbit
 
@@ -159,7 +164,7 @@ The wireframes showcase:
 
 -   **Author**: Harper Lee
 -   **Genre**: Classic Literature
--   **Description**: A powerful exploration of racial injustice and moral growth in the 1930s Deep South
+-   **Description**: A powerful exploration of racial injustice and moral growth in the 1930s 
 
 ## 📱 Responsive Design
 
@@ -176,7 +181,8 @@ The Bookshelf website has been thoroughly tested and validated to ensure code qu
 ### W3C CSS Validation
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/your-css-validation-image-id" alt="W3C CSS Validation Results" width="800">
+  <img width="1875" height="851" alt="cssvalidation" src="https://github.com/user-attachments/assets/cd17d09c-8092-4c21-8909-4651d31d4880" />
+
   <br>
   <em>✅ CSS Level 3 + SVG Validation: No Errors Found</em>
 </div>
@@ -184,7 +190,8 @@ The Bookshelf website has been thoroughly tested and validated to ensure code qu
 ### HTML Validation
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/your-html-validation-image-id" alt="Nu HTML Checker Results" width="800">
+  <img width="1878" height="667" alt="htmlvalidation" src="https://github.com/user-attachments/assets/bf44fef5-5314-4300-b6c4-6b9e60401734" />
+
   <br>
   <em>✅ HTML5 Validation: Document checking completed with no errors or warnings</em>
 </div>
@@ -192,8 +199,8 @@ The Bookshelf website has been thoroughly tested and validated to ensure code qu
 ### Lighthouse Performance Score
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/your-lighthouse-image-id" alt="Lighthouse Performance Results" width="600">
-  <br>
+  <img width="721" height="722" alt="lighthouse" src="https://github.com/user-attachments/assets/b6380239-f754-4823-a196-9a87fea54d89" />
+
   <em>🚀 Lighthouse Scores: Performance 89 | Accessibility 94 | Best Practices 100 | SEO 90</em>
 </div>
 
@@ -230,6 +237,7 @@ This project is open source and available under the [MIT License](LICENSE).
 -   Font Awesome for the social media icons
 -   J.R.R. Tolkien and Harper Lee for the featured books
 -   The book club community for inspiration
+-   copilot for read me temple and code snipbits
 
 ---
 
